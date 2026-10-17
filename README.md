@@ -587,5 +587,8 @@ PRs welcome. Keep the bar high: **show your work** (real data/code/war-stories b
 
 To the extent possible under law, [BenchFlow](https://benchflow.ai) and contributors have waived all copyright and related rights to this work (CC0 1.0). The linked resources remain under their respective licenses.
 
+<!-- fork-notice: start -->
+### Legal notice for this fork
 
-
+This repository is a fork of an upstream project. The original authors' licenses, copyrights and terms remain in force. Read the [Supplemental Fork Risk Notice](DISCLAIMER.md) for information about the fork maintainer's contributions. This notice does not amend upstream terms or waive mandatory rights.
+<!-- fork-notice: end -->
